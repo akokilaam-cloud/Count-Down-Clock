@@ -1,13 +1,13 @@
 # Project Link - https://akokilaam-cloud.github.io/Count-Down-Clock/
 # Count-Down-Clock
-# ⏳ Countdown Clock
+#  Countdown Clock
 
 A simple and interactive **Countdown Clock** project built using **HTML, CSS, and JavaScript**.  
 This project displays the remaining days, hours, minutes, and seconds until a specified future date.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Live countdown timer
 - Displays days, hours, minutes, and seconds
@@ -17,7 +17,7 @@ This project displays the remaining days, hours, minutes, and seconds until a sp
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML** – Structure of the countdown clock  
 - **CSS** – Styling and layout  
